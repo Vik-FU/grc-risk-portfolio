@@ -28,11 +28,11 @@ A working portfolio of GRC analysis built across postgraduate research and appli
 This portfolio draws on two strands of work:
 
 1. A **Master of IT (Cybersecurity & Networks) research project** at Flinders University — a Business Impact Analysis and risk register for a fictional financial services firm ("FinSecure Australia"), and a systematic literature review on cascading DDoS failures across interconnected healthcare networks.
-2. A **self-directed GRC training program** (Protecte Technologies), where an ISMS was designed from scratch — scope, security objectives, and a Statement of Applicability across all 93 ISO/IEC 27001:2022 Annex A controls — alongside a risk register and information security policies (Access Control, Incident Response, Classification), with controls mapped simultaneously across ISO 27001, Essential Eight, and NIST CSF to identify overlap.
+2. A **self-directed GRC training program** (Protecte Technologies), where an ISMS was designed from scratch, scope, security objectives, and a Statement of Applicability across all 93 ISO/IEC 27001:2022 Annex A controls — alongside a risk register and information security policies (Access Control, Incident Response, Classification), with controls mapped simultaneously across ISO 27001, Essential Eight, and NIST CSF to identify overlap.
 
 ## Why this exists
 
-Technical and research findings only create value once they're translated into a form auditors, risk committees, and business stakeholders can act on. Each entry here pairs the underlying finding with a control mapping across frameworks and a business-language explanation — the same translation exercise used in real control walkthroughs and audit interviews.
+Technical and research findings only create value once they're translated into a form auditors, risk committees, and business stakeholders can act on. Each entry here pairs the underlying finding with a control mapping across frameworks and a business-language explanation, the same translation exercise used in real control walkthroughs and audit interviews.
 
 ## Contact
 
