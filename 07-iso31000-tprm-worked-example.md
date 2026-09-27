@@ -1,4 +1,4 @@
-# ISO 31000 Third-Party Risk Assessment — Worked Example
+# ISO 31000 Third-Party Risk Assessment (Example)
 
 **Illustrative portfolio project. Scenario, organisation names, scores, and dates are fictional, built for demonstration only. Not associated with any real employer.**
 
