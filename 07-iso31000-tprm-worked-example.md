@@ -53,6 +53,6 @@ ISO 31000 is the generic parent standard for risk management; ISO 27001's own ri
 | Monitoring & review | Set a quarterly/annual review cadence and five KRIs | Clause 9.1, 9.3 | A.5.35 Independent review; A.5.36 Compliance with policies and standards |
 | Recording, reporting & consultation | Reported results to the Risk Committee quarterly and the Board annually | Clause 5.3, 7.4, 9.2 | Supports internal audit evidence trail |
 
-**Why this matters:** one piece of vendor risk work produces evidence an ISO 27001 auditor expects behind Annex A supplier controls *and* the board-level reporting CPS 230 requires directly — the same register serves both frameworks rather than being built twice.
+**Why this matters:** one piece of vendor risk work produces evidence an ISO 27001 auditor expects behind Annex A supplier controls *and* the board-level reporting CPS 230 requires directly, the same register serves both frameworks rather than being built twice.
 
 The full workbook (editable risk register, colour-coded heat maps, and a live crosswalk) is available as an Excel file — see [`ISO31000-TPRM-Risk-Assessment.xlsx`](ISO31000-TPRM-Risk-Assessment.xlsx) in this repo.
