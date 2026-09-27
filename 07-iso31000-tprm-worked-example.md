@@ -2,7 +2,7 @@
 
 **Illustrative portfolio project. Scenario, organisation names, scores, and dates are fictional, built for demonstration only. Not associated with any real employer.**
 
-This project walks a single Material Service Provider through the full ISO 31000 risk management process end to end — establishing context, risk identification, analysis, evaluation, treatment, and monitoring & review — and shows where each ISO 31000 stage feeds directly into an ISO 27001:2022 clause or Annex A control, so the same risk work satisfies two frameworks at once.
+This project walks a single Material Service Provider through the full ISO 31000 risk management process end to end, establishing context, risk identification, analysis, evaluation, treatment, and monitoring & review, and shows where each ISO 31000 stage feeds directly into an ISO 27001:2022 clause or Annex A control, so the same risk work satisfies two frameworks at once.
 
 ## Scenario
 
