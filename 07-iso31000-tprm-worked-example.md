@@ -6,9 +6,9 @@ This project walks a single Material Service Provider through the full ISO 31000
 
 ## Scenario
 
-- **Assessing organisation:** Meridian Financial Group — an illustrative APRA-regulated ADI, subject to CPS 230, operating an ISO 27001-certified ISMS
-- **Third party assessed:** CloudVault Data Services — an illustrative Material Service Provider engaged to host and back up core banking data, including disaster recovery services
-- **Risk appetite:** Low tolerance for risks that could expose customer data or interrupt core banking availability beyond a 4-hour recovery time objective. Risks scoring Extreme cannot be accepted without Board Risk Committee sign-off.
+**Assessing organisation:** Meridian Financial Group, an illustrative APRA-regulated ADI, subject to CPS 230, operating an ISO 27001-certified ISMS
+**Third party assessed:** CloudVault Data Services, an illustrative Material Service Provider engaged to host and back up core banking data, including disaster recovery services
+**Risk appetite:** Low tolerance for risks that could expose customer data or interrupt core banking availability beyond a 4-hour recovery time objective. Risks scoring Extreme cannot be accepted without Board Risk Committee sign-off.
 
 ## Risk register (identify → analyse → evaluate → treat)
 
