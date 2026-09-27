@@ -26,7 +26,7 @@ This project walks a single Material Service Provider through the full ISO 31000
 Before treatment: **2 Extreme, 2 High, 2 Medium, 0 Low.**
 After treatment: **0 Extreme, 2 High, 2 Medium, 2 Low.**
 
-Both Extreme-rated risks (R1: access control, R3: undisclosed fourth-party) drop out of the Extreme band once treatment actions land — which is the point of scoring inherent and residual risk separately: it shows the Board Risk Committee exactly how much risk reduction each treatment action is expected to deliver, not just a final "acceptable" label.
+Both Extreme-rated risks (R1: access control, R3: undisclosed fourth-party) drop out of the Extreme band once treatment actions land, which is the point of scoring inherent and residual risk separately: it shows the Board Risk Committee exactly how much risk reduction each treatment action is expected to deliver, not just a final "acceptable" label.
 
 ## Monitoring & KRIs
 
